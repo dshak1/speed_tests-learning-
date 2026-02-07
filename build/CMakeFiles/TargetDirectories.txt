@@ -1,0 +1,4 @@
+/Users/diarshakimov/Downloads/cudaDemo/build/CMakeFiles/matrix_mult_demo.dir
+/Users/diarshakimov/Downloads/cudaDemo/build/CMakeFiles/matrix_vector_demo.dir
+/Users/diarshakimov/Downloads/cudaDemo/build/CMakeFiles/edit_cache.dir
+/Users/diarshakimov/Downloads/cudaDemo/build/CMakeFiles/rebuild_cache.dir
